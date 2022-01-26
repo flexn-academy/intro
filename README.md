@@ -33,6 +33,7 @@
     -   [Slack](#slack)
     -   [Github](#github)
     -   [Transporter](#transporter)
+    -   [ConEmu](#conemu)
 
 
 # MacOS Environment Setup
@@ -604,6 +605,15 @@ The Transporter application can be downloaded from the App Store:
 -   Login with your Apple ID
 
 
-## Git
+## ConEmu
 
-TODO
+(Optional)
+> Only available for Windows, skip the installation of ConEmu if you're using MacOS 
+
+Having multiple windows of PowerShell or cmd open on your Windows machine tends to be annoying and managing them is rather difficult. For instance, to open CMD in a selected folder every time you start your machine you will have to cd into the directory, which is certainly less than ideal. To deal with that:
+- [Download ConEmu](https://conemu.github.io/)
+- Create multiple windows (not tabs) by splitting vertically and horizontally
+- Navigate on each to the folder you will be working in
+- Save current window selection
+
+Having done that everytime you open ConEmu, it will open all the windows in correct location, saving some time for you. 

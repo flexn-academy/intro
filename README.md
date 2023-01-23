@@ -111,7 +111,7 @@ To install node.js use the node version manager, which was installed previously
 
 -   Run the following to install the recommended node version
 ```
-nvm install 14.15.5
+nvm install 16.15.1
 ``` 
 
 More information regarding node.js versioning using the nvm tool can be found by running `nvm`
@@ -286,12 +286,12 @@ To install node.js use the node version manager, which was installed previously
 
 -   Run the following command to install node. (For the latest stable node use `nvm install latest`)
 ```
-nvm install 12.22.1
+nvm install 16.15.1
 ``` 
     
 -   To use the installed version of node you also have to open PowerShell with administrative rights and run (or if you installed a newer version replace the number accordingly)
 ```
-nvm use 12.22.1
+nvm use 16.15.1
 ``` 
 
 

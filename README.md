@@ -8,7 +8,7 @@
     -   [RVM](#rvm)
     -   [CocoaPods](#cocoapods)
     -   [Watchman](#watchman)
-    -   [RNV](#rnv)§
+    -   [RNV](#rnv)
     -   [JDK](#jdk)
 -   [Windows Environment Setup](#windows-environment-setup)
     -   [Git](#git-1)

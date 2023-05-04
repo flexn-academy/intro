@@ -8,7 +8,7 @@
     -   [RVM](#rvm)
     -   [CocoaPods](#cocoapods)
     -   [Watchman](#watchman)
-    -   [RNV](#rnv)
+    -   [RNV](#rnv)§
     -   [JDK](#jdk)
 -   [Windows Environment Setup](#windows-environment-setup)
     -   [Git](#git-1)
@@ -236,7 +236,8 @@ Docs reference: https://renative.org/docs/guide-develop
 Java Development Kit needs to be installed when developing for Android, to do that run
 
 ```
-brew install --cask adoptopenjdk/openjdk/adoptopenjdk8
+brew tap homebrew/cask-versions
+brew install --cask zulu11
 ```
 
 # Windows Environment Setup
@@ -361,7 +362,7 @@ Docs reference: https://chocolatey.org/install
 Java Development Kit needs to be installed when developing for Android, to do that run
 
 ```
-choco install -y openjdk8
+choco install -y nodejs-lts microsoft-openjdk11
 ```
 ## RNV
 
